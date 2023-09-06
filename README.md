@@ -1,4 +1,4 @@
-# About Me 🤓
+# About Me ヾ(｡✪ω✪｡)ｼ
 
 Hi there! My name is `Shaurya Sharthak` and I am a software developer with a passion for creating practical and innovative solutions. I specialize in Python programming and have a strong background in web development and data analysis. 💻
 
