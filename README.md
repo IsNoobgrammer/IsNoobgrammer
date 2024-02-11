@@ -13,5 +13,6 @@ Some of my notable projects include:
 In addition to my development skills, I also have experience in API pentesting and security research. 🕵️‍♂️
 
 Currently I am working and exploring Large Language Models.
+Available on HuggingFace at [`fhai50032`](https://huggingface.co/fhai50032)
 
 I am currently studying Computer Science with a focus on Artificial Intelligence at `CSVTU Bhilai`. 🎓 If you would like to get in touch with me, you can reach me at `shauryajnvkkr@gmail.com`. I am always looking for new challenges and opportunities to learn and grow as a developer. Thank you for visiting my profile and I look forward to connecting with you! 🤝
