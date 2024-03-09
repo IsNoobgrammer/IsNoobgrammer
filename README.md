@@ -1,4 +1,4 @@
-# About Me ヾ(｡✪ω✪｡)ｼ
+# ヾ(｡✪ω✪｡)ｼ
 
 Hi there! I am  `Shaurya Sharthak` 
 
