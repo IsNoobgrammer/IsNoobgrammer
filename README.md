@@ -17,6 +17,5 @@ I am currently studying Computer Science with a Specialization in Artificial Int
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isnoobgrammer&show_icons=true&theme=dark&count_private=true&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnoobgrammer&layout=compact&theme=dark&langs_count=8"/>
 </p>
