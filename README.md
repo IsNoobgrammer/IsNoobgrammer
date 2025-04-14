@@ -1,8 +1,13 @@
 # ヾ(｡✪ω✪｡)ｼ
 
-Hi there! I am  `Shaurya Sharthak` 
+Hi there! I am  *`Shaurya Sharthak`*
 
 
+
+* Working on Tinycompany-AI
+*  if : **Necessity is the mother of Invention** ; else **lazy**
+
+<!---
 Currently I am working and exploring Large Language Models.
 Available on HuggingFace at [`fhai50032`](https://huggingface.co/fhai50032)
 
@@ -19,3 +24,4 @@ I am currently studying Computer Science with a Specialization in Artificial Int
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isnoobgrammer&layout=compact&theme=dark&langs_count=8"/>
 </p>
+--->
