@@ -1,11 +1,13 @@
-# ヾ(｡✪ω✪｡)ｼ
+# +_+
 
-Hi there! I am  *`Shaurya Sharthak`*
+Hi there! I am  *`Shaurya Sharthak`* alias fhai50032
 
 
 
 * Working on Tinycompany-AI
-*  if : **Necessity is the mother of Invention** ; else **lazy**
+* if : **Necessity is the mother of Invention** ; else **lazy**
+* Veni , Vidi , Vici
+
 
 <!---
 Currently I am working and exploring Large Language Models.
