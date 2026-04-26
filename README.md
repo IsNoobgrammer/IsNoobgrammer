@@ -5,7 +5,7 @@ Hi there! I am  *`Shaurya Sharthak`*
 
 
 * Working on Tinycompany-AI
-* if : **Necessity is the mother of Invention** ; else **lazy**
+* if True then : **Necessity is the mother of Invention** ; else **lazy**
 * Veni , Vidi , Vici
 
 * [know me more](https://isnoobgrammer.github.io/shaurya.sharthak/) 
