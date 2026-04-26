@@ -1,6 +1,6 @@
 # +_+
 
-Hi there! I am  *`Shaurya Sharthak`* alias fhai50032
+Hi there! I am  *`Shaurya Sharthak`* 
 
 
 
@@ -8,6 +8,7 @@ Hi there! I am  *`Shaurya Sharthak`* alias fhai50032
 * if : **Necessity is the mother of Invention** ; else **lazy**
 * Veni , Vidi , Vici
 
+* [know me more](https://isnoobgrammer.github.io/shaurya.sharthak/) 
 
 <!---
 Currently I am working and exploring Large Language Models.
